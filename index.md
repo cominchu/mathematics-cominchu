@@ -1,4 +1,4 @@
-# このサイトについて
+## このサイトについて
 
 [かみんちゅ](https://twitter.com/AllisTheWill)による技術関連のメモ書きです。  
 [はてなブログ](https://nanabyo.hatenablog.com/)もやってます。  
