@@ -1,5 +1,3 @@
-# memo-cominchu
-
 ## このサイトについて
 
 [かみんちゅ](https://twitter.com/AllisTheWill)による技術関連のメモ書きです。  
