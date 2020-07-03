@@ -1,3 +1,3 @@
 # memo-cominchu
 
-https://cominchu.github.io/mathematics-cominchu/
+https://cominchu.github.io/memo-cominchu/
