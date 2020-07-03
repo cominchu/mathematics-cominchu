@@ -1,9 +1,6 @@
----
-layout: default
----
 
 - [線形代数学 [linear algebra]](linearalgebra/test1)
-- [Converted from HTML file](linearalgebra/ttest2)
+- [Converted from HTML file](linearalgebra/test2)
 
 #### From demo
 
