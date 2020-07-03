@@ -1,7 +1,7 @@
 # このサイトについて
 
-かみんちゅ（https://twitter.com/AllisTheWill）による数学関連のメモ書きです。  
-はてなブログもやってます。（https://nanabyo.hatenablog.com/）  
+かみんちゅ（[[https://twitter.com/AllisTheWill]]）による数学関連のメモ書きです。  
+はてなブログもやってます。（[[https://nanabyo.hatenablog.com/]]）  
 はてなブログの方は日記的な感じで、こっちは技術的なメモにする予定です。  
 
 ## 項目
