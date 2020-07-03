@@ -25,9 +25,3 @@ test: $$N = \sum_{n=1}^r x_n$$
 test: $$N = \sum_{n=1}^r x_n$$
 
 (Converted to `<script type="math/tex; mode=display">` by Jekyll)
-
-## Use script type math/tex
-
-<p><script type="math/tex">ax+by+c=0</script></p>
-<script type="math/tex; mode=display">\sum_{i=1}^n x_i</script>
-
