@@ -1,6 +1,6 @@
 # このサイトについて
 
-かみんちゅ[(@AllisTheWill)](https://twitter.com/AllisTheWill)による技術関連のメモ書きです。  
+かみんちゅ([@AllisTheWill](https://twitter.com/AllisTheWill))による技術関連のメモ書きです。  
 [はてなブログ](https://nanabyo.hatenablog.com/)もやってます。  
 はてなブログの方は日記的な感じで、こっちは技術的なメモにする予定です。  
 
