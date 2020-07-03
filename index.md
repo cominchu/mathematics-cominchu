@@ -1,4 +1,4 @@
-# mathematics-cominchu
+# memo-cominchu
 
 ## このサイトについて
 
