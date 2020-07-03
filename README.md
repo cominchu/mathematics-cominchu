@@ -1,3 +1,3 @@
-# memo-cominchu
+かみんちゅのメモ
 
 https://cominchu.github.io/memo-cominchu/
