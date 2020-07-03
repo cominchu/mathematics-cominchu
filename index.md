@@ -1,21 +1,11 @@
+# このサイトについて
 
-- [線形代数学 [linear algebra]](linearalgebra/test1)
-- [Converted from HTML file](linearalgebra/test2)
+かみんちゅ（https://twitter.com/AllisTheWill）による数学関連のメモ書きです。  
+はてなブログもやってます。（https://nanabyo.hatenablog.com/）  
+はてなブログの方は日記的な感じで、こっちは技術的なメモにする予定です。  
 
-#### From demo
+## 項目
 
-When $a \ne 0$, there are two solutions to \\(ax^2 + bx + c = 0\\) and they are
-$$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
-
-#### Use `$$...$$` (separate line)
-
-$$
- \int_{-\infty}^{\infty} f(t) e^{-j\omega t} dt
-$$
-
-#### Use `\\[...\\]` (separate line)
-
-\\[
- \int_{-\infty}^{\infty} f(t) e^{-j\omega t} dt
-\\]
-
+- 数学
+  - [線形代数学 [linear algebra]](linearalgebra/test1)
+  - [Converted from HTML file](linearalgebra/test2)
