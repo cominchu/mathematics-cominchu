@@ -1,11 +1,10 @@
 <!doctype html>
 <html lang="{{ site.lang | default: "en-US" }}">
-    {% include mathjax-v3.html %}    
+  {% include mathjax-v3.html %}    
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-
-{% seo %}
+    {% seo %}
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     <link rel="icon" href="{{ site.baseurl }}/img/favicon.ico">
     <link rel="icon" type="image/png" sizes="192x192" href="{{ site.baseurl }}/img/かみんちゅ.png">
@@ -16,8 +15,8 @@
       <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js" integrity="sha256-3Jy/GbSLrg0o9y5Z5n1uw0qxZECH7C6OQpVBgNFYa0g=" crossorigin="anonymous"></script>
     <![endif]-->
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-
   </head>
+
   <body>
 
       <header>
@@ -29,7 +28,6 @@
 
       <div id="banner">
         <span id="logo"></span>
-
         <a href="{{ site.github.repository_url }}" class="button fork"><strong>View On GitHub</strong></a>
         {% if site.show_downloads %}
           <div class="downloads">
@@ -43,19 +41,20 @@
       </div><!-- end banner -->
 
     <div class="wrapper">
-      <nav>
-        <ul></ul>
-      </nav>
-      <section>
-        {{ content }}
-
-      </section>
-      <footer>
-        {% if site.github.is_project_page %}
-          <p>Project maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
-        {% endif %}
-        <!-- <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://twitter.com/mattgraham">mattgraham</a></small></p> -->
-      </footer>
+      <body style="font-family:'メイリオ',Meiryo;" font-size="+1"><font size="+1">
+        <nav>
+          <ul></ul>
+        </nav>
+        <section>
+          {{ content }}
+        </section>
+        <footer>
+          {% if site.github.is_project_page %}
+            <p>Project maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
+          {% endif %}
+          <!-- <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://twitter.com/mattgraham">mattgraham</a></small></p> -->
+        </footer>
+      </body></font>
     </div>
 
     {% if site.google_analytics %}
